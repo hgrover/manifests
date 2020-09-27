@@ -23,7 +23,7 @@ resources:
   - ../../pipeline/installs/multi-user
   - ../../argo/base_v3
   # Serving components
-  - ../../seldon/seldon-core-operator/overlays/application
+  #- ../../seldon/seldon-core-operator/overlays/application
   # Metadata
   - ../../metadata/v3
 generatorOptions:
